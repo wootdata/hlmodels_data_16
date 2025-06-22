@@ -1,0 +1,88 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "gensoda1",
+					"polys": 28,
+					"verts": 16
+				}
+			],
+			"name": "can"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "ed733724f9be9c80c46c2ee38e48c1d6",
+	"name": "valve/models/can.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "idle"
+		}
+	],
+	"size": 15136,
+	"skeleton": [
+		{
+			"name": "Cylinder01",
+			"parent": -1
+		}
+	],
+	"skins": 6,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "canbutt.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "gensoda1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "cantop.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "gensoda2.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "gensoda3.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "gensoda4.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "gensoda5.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "gensoda6.bmp",
+			"width": 32
+		}
+	],
+	"version": 10
+}
