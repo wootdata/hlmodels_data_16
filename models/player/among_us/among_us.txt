@@ -1,0 +1,8 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : among_us
+Source Model Hash : d534f05b9f2d3ce56065e9b7cc7936cc
+Ported Model Name : among_us_v1sc
+Ported Model Hash : d534f05b9f2d3ce56065e9b7cc7936cc
+Port Date         : 2025/07/12
