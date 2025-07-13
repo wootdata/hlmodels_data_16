@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -87,6 +88,7 @@
 			"type": 8
 		}
 	],
+	"date": 1623439694,
 	"events": [
 		{
 			"event": 2001,
@@ -196,7 +198,11 @@
 	],
 	"id": 1414743113,
 	"md5": "03c5fc8d569bcd84715860e04edd669d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player\\Half-Life\\csssas.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

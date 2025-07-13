@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1257967676,
 	"events": [
 		{
 			"event": 0,
@@ -183,7 +185,11 @@
 	],
 	"id": 1414743113,
 	"md5": "58541a12722dfec31b54636ac63aa7d9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/hikaru/hik`C",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

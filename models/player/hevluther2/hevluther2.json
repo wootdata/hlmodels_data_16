@@ -38,6 +38,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 36,
@@ -56,6 +57,7 @@
 			"type": 32
 		}
 	],
+	"date": 1163018981,
 	"events": [
 		{
 			"event": 2001,
@@ -165,7 +167,11 @@
 	],
 	"id": 1414743113,
 	"md5": "420cca78226ee821a47c5a6a543b3242",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\1\\Desktop\\opiti\\Scientists intr\\hev_eiD5",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

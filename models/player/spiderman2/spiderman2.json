@@ -18,7 +18,9 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1186418848,
 	"events": [
 		{
 			"event": 2001,
@@ -72,7 +74,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b52a1ca99b88f8c29b26b967fab587b2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\MilkShape 3D\\Models\\spiderman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

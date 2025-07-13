@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -85,6 +86,7 @@
 			"type": 32
 		}
 	],
+	"date": 1624136656,
 	"events": [
 		{
 			"event": 2001,
@@ -194,7 +196,11 @@
 	],
 	"id": 1414743113,
 	"md5": "698c3cc78e6b47aa57ea9777b0bae016",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "new_pyro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
