@@ -20,9 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "worker",
-					"polys": 686,
-					"verts": 351
+					"name": "black",
+					"polys": 807,
+					"verts": 416
+				}, 
+				{
+					"name": "black",
+					"polys": 807,
+					"verts": 416
 				}
 			],
 			"name": "body"
@@ -63,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098025380,
+	"date": 1098020820,
 	"events": [
 		{
 			"event": 2001,
@@ -172,10 +177,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "9029f88a68cecb993d72481a1e983d1d",
+	"md5": "1870fba9adf23ba809e72c79b7014523",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "./neil/neil.mdl",
+	"name": "C:\\punisher\\black.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -566,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 382260,
+	"size": 331612,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -686,45 +691,21 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 49,
-			"name": "BX_Foot_Btm1.bmp",
-			"width": 28
+			"height": 256,
+			"name": "punisher.BMP",
+			"width": 256
 		}, 
 		{
-			"flags": 0,
-			"height": 95,
-			"name": "worker_backarms.bmp",
-			"width": 120
+			"flags": 3,
+			"height": 64,
+			"name": "PLAYER_Chrome2.bmp",
+			"width": 64
 		}, 
 		{
-			"flags": 0,
-			"height": 95,
-			"name": "worker_chest.bmp",
-			"width": 100
-		}, 
-		{
-			"flags": 0,
-			"height": 32,
-			"name": "worker_hands.bmp",
-			"width": 32
-		}, 
-		{
-			"flags": 0,
-			"height": 86,
-			"name": "worker_bottom.bmp",
-			"width": 112
-		}, 
-		{
-			"flags": 0,
-			"height": 116,
-			"name": "gus_face.bmp",
-			"width": 88
-		}, 
-		{
-			"flags": 0,
-			"height": 238,
-			"name": "neilphoto.bmp",
-			"width": 428
+			"flags": 3,
+			"height": 64,
+			"name": "PLAYER_Chrome1.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

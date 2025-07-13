@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "worker",
-					"polys": 686,
-					"verts": 351
+					"name": "w_body_nohead",
+					"polys": 2611,
+					"verts": 1424
 				}
 			],
 			"name": "body"
@@ -31,7 +31,7 @@
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 14,
+			"bone": 7,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -39,7 +39,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +47,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 16,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +55,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 17,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098025380,
+	"date": 1466460512,
 	"events": [
 		{
 			"event": 2001,
@@ -116,68 +116,306 @@
 		}, 
 		{
 			"event": 5011,
-			"frame": 0,
+			"frame": 1,
 			"options": "21",
 			"sequence": 34,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
-			"frame": 0,
+			"frame": 1,
 			"options": "21",
 			"sequence": 36,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
-			"frame": 0,
+			"frame": 1,
 			"options": "31",
 			"sequence": 38,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
-			"frame": 0,
+			"frame": 1,
 			"options": "31",
 			"sequence": 40,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
-			"frame": 0,
-			"options": "51",
+			"frame": 1,
+			"options": "41",
 			"sequence": 42,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
-			"frame": 0,
-			"options": "51",
+			"frame": 1,
+			"options": "41",
 			"sequence": 44,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
-			"frame": 0,
-			"options": "40",
+			"frame": 1,
+			"options": "31",
+			"sequence": 46,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "31",
+			"sequence": 48,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
 			"sequence": 50,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
-			"frame": 0,
-			"options": "40",
+			"frame": 1,
+			"options": "10",
 			"sequence": 52,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "22",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 8,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 10,
+			"options": "22",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 12,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 14,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 16,
+			"options": "22",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 18,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 20,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 22,
+			"options": "22",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 24,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 28,
+			"options": "21",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 30,
+			"options": "22",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "22",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 8,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 10,
+			"options": "22",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 12,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 14,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 16,
+			"options": "22",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 18,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 20,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 22,
+			"options": "22",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 24,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 28,
+			"options": "21",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 30,
+			"options": "22",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "32",
+			"sequence": 66,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "32",
+			"sequence": 68,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "9029f88a68cecb993d72481a1e983d1d",
+	"md5": "2e62efaf3ab8a3c54b8bebf3846aefee",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "./neil/neil.mdl",
+	"name": "C:\\Documents and Settings\\Tatiana\\ \\XGordon\\XNoHead.m",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -527,22 +765,22 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_bow"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "ref_shoot_bow"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_bow"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "crouch_shoot_bow"
 		}, 
 		{
@@ -566,7 +804,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 382260,
+	"size": 950296,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -585,44 +823,16 @@
 			"parent": 2
 		}, 
 		{
-			"name": "Bip01 L Foot",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Toe02",
-			"parent": 6
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 8
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Toe01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 R Toe02",
-			"parent": 12
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -630,55 +840,103 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 14
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 15
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 16
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 18
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 18
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 20
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 21
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 22
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 18
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Hand",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger01",
 			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 11
 		}
 	],
 	"skins": 1,
@@ -686,45 +944,63 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 49,
-			"name": "BX_Foot_Btm1.bmp",
-			"width": 28
+			"height": 64,
+			"name": "unm_barney_hands.bmp",
+			"width": 64
 		}, 
 		{
 			"flags": 0,
-			"height": 95,
-			"name": "worker_backarms.bmp",
-			"width": 120
+			"height": 512,
+			"name": "unm_barney_body.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 95,
-			"name": "worker_chest.bmp",
-			"width": 100
+			"height": 256,
+			"name": "unm_barney_legs.bmp",
+			"width": 384
 		}, 
 		{
 			"flags": 0,
-			"height": 32,
-			"name": "worker_hands.bmp",
-			"width": 32
+			"height": 256,
+			"name": "Topor.bmp",
+			"width": 96
 		}, 
 		{
 			"flags": 0,
-			"height": 86,
-			"name": "worker_bottom.bmp",
-			"width": 112
+			"height": 83,
+			"name": "pila.bmp",
+			"width": 188
 		}, 
 		{
 			"flags": 0,
-			"height": 116,
-			"name": "gus_face.bmp",
-			"width": 88
+			"height": 128,
+			"name": "w_python_reference.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 238,
-			"name": "neilphoto.bmp",
-			"width": 428
+			"height": 256,
+			"name": "unm_barney_head.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 125,
+			"name": "organs.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "CHROME.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "no_head.bmp",
+			"width": 256
 		}
 	],
 	"version": 10
