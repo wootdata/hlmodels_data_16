@@ -175,6 +175,7 @@
 	"md5": "afa6a6dc8cd36c1b611f6f25ff8fd00b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/eva/eva.mdl",
 	"preview": true,
 	"readme": false,

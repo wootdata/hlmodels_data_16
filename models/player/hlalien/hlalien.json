@@ -175,6 +175,7 @@
 	"md5": "d0e51dc5ea551000f686e95ed713f957",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/HLalien/HLalien.mdl",
 	"preview": false,
 	"readme": false,
