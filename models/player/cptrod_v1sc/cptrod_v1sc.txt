@@ -1,0 +1,20 @@
+Credits: 
+
+SPASTiC CHiLD for the model
+
+Toadie for converting it over to SC 3.0
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cptrod
+Source Model Hash : ddbe20f1a6a37b23861d0cc8221a7385
+Source Model Date : 1268404626 (2010/03/12)
+
+Ported Model Name : cptrod_v1sc
+Ported Model Hash : c2d811cc428a0874e7c80343fdaaa695
+Ported Model Date : 1752491534 (2025/07/14)

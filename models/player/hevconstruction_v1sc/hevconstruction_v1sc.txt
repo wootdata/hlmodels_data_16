@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hevconstruction
+Source Model Hash : 7fad99184475df712e5b422a8a0b8965
+Source Model Date : 1268834731 (2010/03/17)
+
+Ported Model Name : hevconstruction_v1sc
+Ported Model Hash : e4db283798e73fe4c3cf2aa9ed89f943
+Ported Model Date : 1752491785 (2025/07/14)

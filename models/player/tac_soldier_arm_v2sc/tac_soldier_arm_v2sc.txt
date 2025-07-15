@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_soldier_armor_v2
+Source Model Hash : a0799edad8b04b4613ed31ecb1a5958a
+Source Model Date : 1661807202 (2022/08/29)
+
+Ported Model Name : tac_soldier_arm_v2sc
+Ported Model Hash : 42f5cb731e5fcdde8f5b3e5d78f7eced
+Ported Model Date : 1752492381 (2025/07/14)

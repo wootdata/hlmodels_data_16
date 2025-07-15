@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dmc4_nero2
+Source Model Hash : cdefdcaefdca5c38f575010981e6e8fe
+Source Model Date : 1236523040 (2009/03/08)
+
+Ported Model Name : dmc4_nero2_v1sc
+Ported Model Hash : c2655e50006fc0d8444db33792ebfeea
+Ported Model Date : 1752491603 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_op4_5
+Source Model Hash : b8c76626c7875cf7e05dd0722b23d6f7
+Source Model Date : 1282455560 (2010/08/21)
+
+Ported Model Name : mw2_op4_5_v1sc
+Ported Model Hash : e1ee0f02152f35a18c49cf38d1260cf6
+Ported Model Date : 1752492053 (2025/07/14)

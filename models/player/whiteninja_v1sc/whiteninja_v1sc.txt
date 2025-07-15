@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : whiteninja
+Source Model Hash : d1519e88880b363acdb0be605f13f18a
+Source Model Date : 1264529119 (2010/01/26)
+
+Ported Model Name : whiteninja_v1sc
+Ported Model Hash : c1c9d46a204815a765fa7d26975d29ad
+Ported Model Date : 1752492508 (2025/07/14)

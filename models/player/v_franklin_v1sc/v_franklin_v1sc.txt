@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : v_franklin
+Source Model Hash : 1c31d3bd85ee04526825aa54b9c5102b
+Source Model Date : 1635003672 (2021/10/23)
+
+Ported Model Name : v_franklin_v1sc
+Ported Model Hash : c334b463d5cec0b3e236feb0cde21249
+Ported Model Date : 1752492499 (2025/07/14)

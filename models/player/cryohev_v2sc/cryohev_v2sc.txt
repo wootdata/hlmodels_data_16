@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cryohev_v2
+Source Model Hash : 3ff0ad4bb17e8b58a57d539934682d2e
+Source Model Date : 1583568683 (2020/03/07)
+
+Ported Model Name : cryohev_v2sc
+Ported Model Hash : 0f2310ed646d4b6bf6b7e73e2b58908c
+Ported Model Date : 1752491539 (2025/07/14)

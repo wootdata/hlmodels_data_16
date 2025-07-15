@@ -1,0 +1,25 @@
+--------------http://www.raus.de/crashme/---------------
+
+My first kuso player model!
+
+skin/model/compiled : tepodon
+animation : 3.0team
+
+tool : MilkShape3D
+
+time : 6.5 hours
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raus_de_v3
+Source Model Hash : a68f02a3b5b5a5bdcb108498cefb6160
+Source Model Date : 1591345150 (2020/06/05)
+
+Ported Model Name : raus_de_v3sc
+Ported Model Hash : e6540886ea616687d8848f579bda463e
+Ported Model Date : 1752492188 (2025/07/14)

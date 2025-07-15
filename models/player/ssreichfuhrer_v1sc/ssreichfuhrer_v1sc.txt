@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ssreichfuhrer
+Source Model Hash : 5578e2495cb6db77ea9d365cd5ba79b1
+Source Model Date : 1493246880 (2017/04/26)
+
+Ported Model Name : ssreichfuhrer_v1sc
+Ported Model Hash : 8ae629e62b77660d2d3d2663533ce81e
+Ported Model Date : 1752492318 (2025/07/14)

@@ -1,0 +1,30 @@
+Hi,
+this is the model blues for multiplayer deathmatch gaming.
+
+It's Jake Blues from the fabulous Blues Brothers.
+
+Extract into valve\models\player\blues\  in the Hl dir!
+
+Enjoy it !
+
+
+02 February 1999
+
+Dr.Tyrell
+kmaylahn@3danimation.de
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blues
+Source Model Hash : 9bfbc26ebd7f50f2f18e34300214dc9c
+Source Model Date : 1590135180 (2020/05/22)
+
+Ported Model Name : blues_v1sc
+Ported Model Hash : 5ace2b62c30d97e7a999f49456bd0814
+Ported Model Date : 1752491438 (2025/07/14)

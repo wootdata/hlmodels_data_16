@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_hollow
+Source Model Hash : d89bf7ad763180c8d8a74873735c56d5
+Source Model Date : 1483813338 (2017/01/07)
+
+Ported Model Name : afterlife_hollow_v1sc
+Ported Model Hash : eb4faebdedbaf2b1861ca40105bbba7f
+Ported Model Date : 1752491335 (2025/07/14)

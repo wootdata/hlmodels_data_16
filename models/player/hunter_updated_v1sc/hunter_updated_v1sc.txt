@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hunter_updated
+Source Model Hash : aba71de077a22355c406601d419d2403
+Source Model Date : 1677250006 (2023/02/24)
+
+Ported Model Name : hunter_updated_v1sc
+Ported Model Hash : 18f98d70c30c90fc0229c8b61d1f26b2
+Ported Model Date : 1752491838 (2025/07/14)

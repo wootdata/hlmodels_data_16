@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thewastes_vincent
+Source Model Hash : a2239cf609cc4a2e64adb62362a9e890
+Source Model Date : 1267463526 (2010/03/01)
+
+Ported Model Name : thewastes_vincent_v1sc
+Ported Model Hash : ad4cf55fbb37ea5dbfd07ba404fa967b
+Ported Model Date : 1752492412 (2025/07/14)

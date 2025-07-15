@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : childs_play
+Source Model Hash : 75aa0a886a2dd4bae69c8a66e89b6cc9
+Source Model Date : 1268285960 (2010/03/10)
+
+Ported Model Name : childs_play_v1sc
+Ported Model Hash : 70ad28d140b6e53769a6c86bbd8f2da8
+Ported Model Date : 1752491472 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_heroine
+Source Model Hash : 71460955200a8f55177701df59bd8415
+Source Model Date : 1579695884 (2020/01/22)
+
+Ported Model Name : cso_heroine_v1sc
+Ported Model Hash : c4529d5f315dfeb10cea9be952bf5830
+Ported Model Date : 1752491554 (2025/07/14)

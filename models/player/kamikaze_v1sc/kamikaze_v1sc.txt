@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kamikaze
+Source Model Hash : 14b5e06a36549c4634139b8cf919f5b6
+Source Model Date : 1263491196 (2010/01/14)
+
+Ported Model Name : kamikaze_v1sc
+Ported Model Hash : a1ca7deddc309138d7363abb7bdbaaea
+Ported Model Date : 1752491869 (2025/07/14)

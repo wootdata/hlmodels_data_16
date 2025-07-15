@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smbpeach
+Source Model Hash : 05a5235942fd34bd994ec9585dc6dc2f
+Source Model Date : 1629037537 (2021/08/15)
+
+Ported Model Name : smbpeach_v1sc
+Ported Model Hash : 0ecd40a4b55cedfff7618b44a39a27a4
+Ported Model Date : 1752492281 (2025/07/14)

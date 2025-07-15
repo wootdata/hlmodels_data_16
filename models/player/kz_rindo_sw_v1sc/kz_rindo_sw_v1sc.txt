@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_rindo_sw
+Source Model Hash : 0a7166578aac2450afb58362f5000e74
+Source Model Date : 1660798072 (2022/08/17)
+
+Ported Model Name : kz_rindo_sw_v1sc
+Ported Model Hash : 8b6d970caaec3a2cb2ac35cd9403ddae
+Ported Model Date : 1752491930 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lp_pink
+Source Model Hash : 8402aa451a6b58504d1831209e7e41c0
+Source Model Date : 1538981231 (2018/10/07)
+
+Ported Model Name : lp_pink_v1sc
+Ported Model Hash : 49684df793a65343cdcc038bdb2753e9
+Ported Model Date : 1752491965 (2025/07/14)

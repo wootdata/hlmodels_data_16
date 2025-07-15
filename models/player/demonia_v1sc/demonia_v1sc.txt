@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : demonia
+Source Model Hash : b319e4a4a109feb41884815e94d31b1b
+Source Model Date : 1445974761 (2015/10/27)
+
+Ported Model Name : demonia_v1sc
+Ported Model Hash : fb595cdf9ee52a76b6ba7426906497dc
+Ported Model Date : 1752491594 (2025/07/14)

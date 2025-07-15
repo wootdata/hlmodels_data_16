@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : manga
+Source Model Hash : ef291f964ac8477523e52346b406ce3e
+Source Model Date : 1266054697 (2010/02/13)
+
+Ported Model Name : manga_v1sc
+Ported Model Hash : 20408f2038a00c60557aa52664b3c272
+Ported Model Date : 1752491984 (2025/07/14)

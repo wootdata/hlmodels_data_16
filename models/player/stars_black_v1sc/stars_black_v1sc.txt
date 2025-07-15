@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stars_black
+Source Model Hash : 1342a79fe77e66a09338b16b4875cb36
+Source Model Date : 1269962632 (2010/03/30)
+
+Ported Model Name : stars_black_v1sc
+Ported Model Hash : fbbf736a00bb8d23250330343c7d09e4
+Ported Model Date : 1752492343 (2025/07/14)

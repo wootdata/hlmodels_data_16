@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : brs_male
+Source Model Hash : e7fc001292fe4c696d6cec6232751dcb
+Source Model Date : 1439797686 (2015/08/17)
+
+Ported Model Name : brs_male_v1sc
+Ported Model Hash : fed04ffe97b9e3d6cb6c24cbc7aee842
+Ported Model Date : 1752491449 (2025/07/14)

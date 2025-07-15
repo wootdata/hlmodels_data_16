@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lobopirate_v2
+Source Model Hash : 7c0d34e9cda7217763a87b7e9ed2ce03
+Source Model Date : 1584060581 (2020/03/12)
+
+Ported Model Name : lobopirate_v2sc
+Ported Model Hash : b0d900161c2c6d43cf0c64e2fb2ef5d5
+Ported Model Date : 1752491955 (2025/07/14)

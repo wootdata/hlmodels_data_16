@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sno_ikaros
+Source Model Hash : 866b185972e5612f54353cb79cf31ece
+Source Model Date : 1440302648 (2015/08/22)
+
+Ported Model Name : sno_ikaros_v1sc
+Ported Model Hash : 02997a37078e2f2593d64bb3a04f254d
+Ported Model Date : 1752492287 (2025/07/14)

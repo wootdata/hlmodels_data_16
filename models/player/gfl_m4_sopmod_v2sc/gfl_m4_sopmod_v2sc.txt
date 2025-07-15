@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gfl_m4_sopmod_v2
+Source Model Hash : 22122f0e48a767f14f2fb4d9fb856852
+Source Model Date : 1697362147 (2023/10/15)
+
+Ported Model Name : gfl_m4_sopmod_v2sc
+Ported Model Hash : bca187845d945e122b977bfd4506f84d
+Ported Model Date : 1752491686 (2025/07/14)

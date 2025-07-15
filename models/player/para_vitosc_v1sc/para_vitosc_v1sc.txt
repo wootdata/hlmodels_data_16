@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_vitosc
+Source Model Hash : 28240f695a6b66513a628932b5729554
+Source Model Date : 1236727220 (2009/03/10)
+
+Ported Model Name : para_vitosc_v1sc
+Ported Model Hash : 1814410b049e1cadbc2ef22a0aa64987
+Ported Model Date : 1752492148 (2025/07/14)

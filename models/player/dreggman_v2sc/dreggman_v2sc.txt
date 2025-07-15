@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dreggman_v2
+Source Model Hash : 584933b1e825caf75d717629da239e5c
+Source Model Date : 1612906435 (2021/02/09)
+
+Ported Model Name : dreggman_v2sc
+Ported Model Hash : 80b766742ec1125af5b452cc2b28c464
+Ported Model Date : 1752491622 (2025/07/14)

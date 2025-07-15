@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gmc_soldier
+Source Model Hash : 0513188e55100538d9e79be423b7bc16
+Source Model Date : 1606906342 (2020/12/02)
+
+Ported Model Name : gmc_soldier_v1sc
+Ported Model Hash : 30b19236cf7d516a95b8f1709358809e
+Ported Model Date : 1752491730 (2025/07/14)

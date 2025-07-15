@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sp_arabianmiku_black
+Source Model Hash : cb3d291a31a8ab013961244fa7a5a76e
+Source Model Date : 1586981990 (2020/04/15)
+
+Ported Model Name : sp_arabianmiku_b_v1sc
+Ported Model Hash : 9a4bef46307056528515942929e0dbc5
+Ported Model Date : 1752492316 (2025/07/14)

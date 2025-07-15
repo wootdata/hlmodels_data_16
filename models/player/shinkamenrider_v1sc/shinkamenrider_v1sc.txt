@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shinkamenrider
+Source Model Hash : 26f19393b96b46bfe49abd9bd15b31c0
+Source Model Date : 1721554721 (2024/07/21)
+
+Ported Model Name : shinkamenrider_v1sc
+Ported Model Hash : ef7e196400c4718feaf4b90a39d6d78e
+Ported Model Date : 1752492269 (2025/07/14)

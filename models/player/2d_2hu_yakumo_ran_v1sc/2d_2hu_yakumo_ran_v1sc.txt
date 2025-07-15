@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_touhou_yakumo_ran
+Source Model Hash : 25100f0c499be2c9902de4e0264a4e35
+Source Model Date : 1554124418 (2019/04/01)
+
+Ported Model Name : 2d_2hu_yakumo_ran_v1sc
+Ported Model Hash : dc22a37d8e98ff2e35d67a21058f4927
+Ported Model Date : 1752491320 (2025/07/14)

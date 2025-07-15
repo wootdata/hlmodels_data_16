@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : slasher
+Source Model Hash : 650c7269d27b2ca229b6b9461969699e
+Source Model Date : 1591294278 (2020/06/04)
+
+Ported Model Name : slasher_v1sc
+Ported Model Hash : eea4228f7259065089d5e7d691b53812
+Ported Model Date : 1752492280 (2025/07/14)

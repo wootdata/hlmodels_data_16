@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tony
+Source Model Hash : a6711dee2da5b2331f5d03f3af81f5da
+Source Model Date : 1674784609 (2023/01/26)
+
+Ported Model Name : tony_v1sc
+Ported Model Hash : 25f480bc7348d3c1891192219bff3a0f
+Ported Model Date : 1752492429 (2025/07/14)

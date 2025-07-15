@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dmz_goku
+Source Model Hash : c3942d7bcc5000f3ed7f6b00d6eb488a
+Source Model Date : 1237589464 (2009/03/20)
+
+Ported Model Name : dmz_goku_v1sc
+Ported Model Hash : 5f2c3278116dd52bcbe2f3602ebc1526
+Ported Model Date : 1752491604 (2025/07/14)

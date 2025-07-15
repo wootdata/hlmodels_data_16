@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : metrocop_pro
+Source Model Hash : 820efc09b1e868175786d0fcedddb420
+Source Model Date : 1352409700 (2012/11/08)
+
+Ported Model Name : metrocop_pro_v1sc
+Ported Model Hash : 6a88ca65317b0f2e2ed1f2a9994209f2
+Ported Model Date : 1752492005 (2025/07/14)

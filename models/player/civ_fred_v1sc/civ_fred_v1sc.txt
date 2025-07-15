@@ -1,0 +1,24 @@
+A small reskin project by, _CiviliaN^SoldieR_.
+I've made this pack to add more variety, not because i find the default's bad.
+
+Send all your criticism and suggestions to, synthnal_ak47@hotmail.com , i really don't mind.
+
+Thanks alot to, Reinhardt, for hosting!
+
+Anim Transfer: CyborgDragon
+Note: The anims are kind of buggy as the model did not have bones for the hands. You will notice that it uses its elbows a lot for using weapons.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civ_fred
+Source Model Hash : 81fcadf8a9bf54856e465be5c3bf89e8
+Source Model Date : 1266827039 (2010/02/22)
+
+Ported Model Name : civ_fred_v1sc
+Ported Model Hash : e517a232799de18698c3e7c2a674a391
+Ported Model Date : 1752491477 (2025/07/14)

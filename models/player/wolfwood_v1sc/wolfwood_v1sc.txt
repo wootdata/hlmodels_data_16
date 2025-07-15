@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wolfwood
+Source Model Hash : dbe92cfa7e3b8e7f7257a3630f23db0c
+Source Model Date : 1264441344 (2010/01/25)
+
+Ported Model Name : wolfwood_v1sc
+Ported Model Hash : ed703e3c5f9fd3968d87691dc010e752
+Ported Model Date : 1752492510 (2025/07/14)

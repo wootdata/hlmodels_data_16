@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dorane
+Source Model Hash : b73a0328cdffd189246621f619bb7d29
+Source Model Date : 1478177422 (2016/11/03)
+
+Ported Model Name : dorane_v1sc
+Ported Model Hash : e192380cb386bdecaf110d0d4c9f5fbf
+Ported Model Date : 1752491620 (2025/07/14)

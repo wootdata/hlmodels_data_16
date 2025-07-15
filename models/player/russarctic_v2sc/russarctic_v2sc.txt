@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : russarctic_v2
+Source Model Hash : 312fa03b49016a71c896e3b61bbb3626
+Source Model Date : 1583906820 (2020/03/10)
+
+Ported Model Name : russarctic_v2sc
+Ported Model Hash : a50f7f467e181b6715dcda6b14a36be6
+Ported Model Date : 1752492225 (2025/07/14)

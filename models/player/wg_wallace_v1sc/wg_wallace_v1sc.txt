@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wg_wallace
+Source Model Hash : 6654b68a8dcff21c940c73b5b2485207
+Source Model Date : 1584185962 (2020/03/14)
+
+Ported Model Name : wg_wallace_v1sc
+Ported Model Hash : 39ca19329c8b611e43b62b6af13f402e
+Ported Model Date : 1752492507 (2025/07/14)

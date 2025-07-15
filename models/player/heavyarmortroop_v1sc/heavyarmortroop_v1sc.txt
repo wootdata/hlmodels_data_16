@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : heavyarmortroop
+Source Model Hash : c8df7b963caa2e3e0a8d39c9d6270399
+Source Model Date : 1455995473 (2016/02/20)
+
+Ported Model Name : heavyarmortroop_v1sc
+Ported Model Hash : d60d5be5b3fb7c3eca076066f2109bf7
+Ported Model Date : 1752491779 (2025/07/14)

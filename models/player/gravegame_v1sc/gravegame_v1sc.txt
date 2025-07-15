@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gravegame
+Source Model Hash : 7568cdefd563dd8ef8840c2387c441c8
+Source Model Date : 1237215346 (2009/03/16)
+
+Ported Model Name : gravegame_v1sc
+Ported Model Hash : f740d452971e3de45aa7922d523c5387
+Ported Model Date : 1752491737 (2025/07/14)

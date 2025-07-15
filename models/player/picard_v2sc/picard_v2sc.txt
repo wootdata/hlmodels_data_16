@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : picard_v2
+Source Model Hash : a2f9bbcd79b70f51280e521eb0f34bf8
+Source Model Date : 1590718323 (2020/05/28)
+
+Ported Model Name : picard_v2sc
+Ported Model Hash : 294645b7461b6f9939199112266a0208
+Ported Model Date : 1752492156 (2025/07/14)

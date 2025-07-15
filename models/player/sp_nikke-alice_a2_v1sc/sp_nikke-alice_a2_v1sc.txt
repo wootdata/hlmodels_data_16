@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sp_nikke-alice_a2
+Source Model Hash : 929b53f14caabd8868bfa3f9264713d0
+Source Model Date : 1718384538 (2024/06/14)
+
+Ported Model Name : sp_nikke-alice_a2_v1sc
+Ported Model Hash : c145b68faaccc3e7a042d48cfbec28bf
+Ported Model Date : 1752492316 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sonny_claws
+Source Model Hash : be84c6bac3129f2cf9ef14021fb6c9f5
+Source Model Date : 1269931576 (2010/03/29)
+
+Ported Model Name : sonny_claws_v1sc
+Ported Model Hash : 7288e16609424775ea3547982fa9fda7
+Ported Model Date : 1752492296 (2025/07/14)

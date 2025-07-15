@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : newport
+Source Model Hash : b56c577788e6e1ff9065473ba6e6eef2
+Source Model Date : 1696673906 (2023/10/07)
+
+Ported Model Name : newport_v1sc
+Ported Model Hash : 620fe1ae504d12208f2e9bf53c5592ff
+Ported Model Date : 1752492091 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : succubus
+Source Model Hash : abc41bb3f03e06209e64af236d0907f3
+Source Model Date : 1478177422 (2016/11/03)
+
+Ported Model Name : succubus_v1sc
+Ported Model Hash : fa28852db6f640cb52fb8533eb6cad05
+Ported Model Date : 1752492349 (2025/07/14)

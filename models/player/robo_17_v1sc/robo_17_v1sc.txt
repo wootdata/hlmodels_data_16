@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : robo_17
+Source Model Hash : 7fc9ff61addd8aae6b2633547df87b97
+Source Model Date : 1298168704 (2011/02/19)
+
+Ported Model Name : robo_17_v1sc
+Ported Model Hash : d96a9a453b317420c331809cbfb0749e
+Ported Model Date : 1752492219 (2025/07/14)

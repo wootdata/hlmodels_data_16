@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dgf_wireman
+Source Model Hash : 662529b0d5355ed1141b84133a7bc352
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : dgf_wireman_v1sc
+Ported Model Hash : e3dd48867248c41273423e4dca74c838
+Ported Model Date : 1752491597 (2025/07/14)

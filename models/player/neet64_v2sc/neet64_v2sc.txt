@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : neet64_v2
+Source Model Hash : 6748649a9f54d69e3e2d3ca6a1a0e25c
+Source Model Date : 1591337883 (2020/06/04)
+
+Ported Model Name : neet64_v2sc
+Ported Model Hash : 0051e924799a4a12933bf30b740da945
+Ported Model Date : 1752492077 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : maya_dawn_v2
+Source Model Hash : 593891c13a16391360bf22f26ae19ee3
+Source Model Date : 1609360280 (2020/12/30)
+
+Ported Model Name : maya_dawn_v2sc
+Ported Model Hash : 4c56f0faff1f2d90d2e6fc5c9eefcba5
+Ported Model Date : 1752491994 (2025/07/14)

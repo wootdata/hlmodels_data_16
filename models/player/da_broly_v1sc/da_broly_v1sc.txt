@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_broly
+Source Model Hash : 2aed675ef9b968f6303d6d52269a84f6
+Source Model Date : 1461121640 (2016/04/19)
+
+Ported Model Name : da_broly_v1sc
+Ported Model Hash : d7b6a362a22c3539f1ada095e4d58efb
+Ported Model Date : 1752491584 (2025/07/14)

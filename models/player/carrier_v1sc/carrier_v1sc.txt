@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : carrier
+Source Model Hash : b887ecfeec94d9502fc8d6234b8cfbfc
+Source Model Date : 1277815754 (2010/06/29)
+
+Ported Model Name : carrier_v1sc
+Ported Model Hash : 868856e27d8fc4080b632e1fc8c6751c
+Ported Model Date : 1752491463 (2025/07/14)

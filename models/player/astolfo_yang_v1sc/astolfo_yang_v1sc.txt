@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : astolfo_yang_v1
+Source Model Hash : 19a162a877c50ca046ae9ce9de73d5a6
+Source Model Date : 1643651496 (2022/01/31)
+
+Ported Model Name : astolfo_yang_v1sc
+Ported Model Hash : 9079c0e74616bcf61b4dbe2504c66d4b
+Ported Model Date : 1752491384 (2025/07/14)

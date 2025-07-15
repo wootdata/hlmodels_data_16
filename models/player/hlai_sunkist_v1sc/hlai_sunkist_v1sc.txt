@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hlai_sunkist
+Source Model Hash : 05ef45bf0eefb52b355f5f7b34a04e6d
+Source Model Date : 1640393286 (2021/12/24)
+
+Ported Model Name : hlai_sunkist_v1sc
+Ported Model Hash : f479659d1d89762dc83654566f6812e2
+Ported Model Date : 1752491804 (2025/07/14)

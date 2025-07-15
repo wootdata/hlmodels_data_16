@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yske_golds
+Source Model Hash : 58ff19a80333e206181ca3678978fb6d
+Source Model Date : 1688640632 (2023/07/06)
+
+Ported Model Name : yske_golds_v1sc
+Ported Model Hash : bff7c914a0f7d1056f0ef04312041043
+Ported Model Date : 1752492524 (2025/07/14)

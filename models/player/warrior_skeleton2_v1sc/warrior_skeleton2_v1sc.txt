@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : warrior_skeleton_2
+Source Model Hash : 12a414489858635b186964cf0b4c0508
+Source Model Date : 1615486981 (2021/03/11)
+
+Ported Model Name : warrior_skeleton2_v1sc
+Ported Model Hash : 549cd33486a5ee939f1674ee0975d840
+Ported Model Date : 1752492503 (2025/07/14)

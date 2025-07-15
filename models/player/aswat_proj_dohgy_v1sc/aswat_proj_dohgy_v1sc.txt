@@ -1,0 +1,29 @@
+                              ASWAT Project Dohgy
+                              ~~~~~~~~~~~~
+Author of Model ~ Ian Waugh
+
+Re-skinned by Dylan 'Dohgy' Gaut
+
+Creation Date ~ Dec. 23, 08
+
+With the help of ~ Half-Life Model Viewer 1.25, Paint, PhotoFiltre
+
+E-mail ~ whiplash2point0@aol.com
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aswat_project_dohgy
+Source Model Hash : b7ecf1a4390c159e3e9afc340069308f
+Source Model Date : 1247359660 (2009/07/11)
+
+Ported Model Name : aswat_proj_dohgy_v1sc
+Ported Model Hash : 49df5fd12b14cf86e86f208424cdb498
+Ported Model Date : 1752491385 (2025/07/14)

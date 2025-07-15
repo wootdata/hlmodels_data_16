@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : muerte_v2
+Source Model Hash : 74136a48c40c976004713a8b86f185c5
+Source Model Date : 1583457385 (2020/03/05)
+
+Ported Model Name : muerte_v2sc
+Ported Model Hash : 3e563a620751cb6e2dd18def76ac6418
+Ported Model Date : 1752492047 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ipodz
+Source Model Hash : d09f3ea432a0addaa7a58120d6672ad8
+Source Model Date : 1567290538 (2019/08/31)
+
+Ported Model Name : ipodz_v1sc
+Ported Model Hash : ed8d2c494dc7f0f12d46c710b0f82d23
+Ported Model Date : 1752491851 (2025/07/14)

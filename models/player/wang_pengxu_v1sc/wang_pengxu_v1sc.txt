@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wang_pengxu
+Source Model Hash : 873cc867fd31aab5b50180d57c2eb3e0
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : wang_pengxu_v1sc
+Ported Model Hash : 40943eb4e47c9bf164b5901cfa3f044e
+Ported Model Date : 1752492501 (2025/07/14)

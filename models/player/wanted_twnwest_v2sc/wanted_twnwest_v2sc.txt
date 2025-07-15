@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wanted_twnwest_v2
+Source Model Hash : 85e82b89256c1a39e8ade24ed927b18b
+Source Model Date : 1528091344 (2018/06/03)
+
+Ported Model Name : wanted_twnwest_v2sc
+Ported Model Hash : a66064d507ac5e1fe3dbfdcfee465ce6
+Ported Model Date : 1752492503 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cive
+Source Model Hash : d6c8a65141a74aa0f49fc2780ff204da
+Source Model Date : 1590514622 (2020/05/26)
+
+Ported Model Name : cive_v1sc
+Ported Model Hash : aaaa8c83237ae98b20731b8040e10262
+Ported Model Date : 1752491477 (2025/07/14)

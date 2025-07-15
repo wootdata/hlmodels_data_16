@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : allied3_s5
+Source Model Hash : f0dfaece18b44cee8dad6f1da2ca46bc
+Source Model Date : 1468612578 (2016/07/15)
+
+Ported Model Name : allied3_s5_v1sc
+Ported Model Hash : ee3de73a86187d137bed9b61a62a9379
+Ported Model Date : 1752491353 (2025/07/14)

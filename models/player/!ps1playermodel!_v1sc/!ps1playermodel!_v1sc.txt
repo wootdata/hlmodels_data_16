@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : !ps1playermodel!
+Source Model Hash : f5c9dfcbe511323383ab91768ee312a9
+Source Model Date : 1716327352 (2024/05/21)
+
+Ported Model Name : !ps1playermodel!_v1sc
+Ported Model Hash : e45307828f1f3b310c185cc878d976a4
+Ported Model Date : 1752491301 (2025/07/14)

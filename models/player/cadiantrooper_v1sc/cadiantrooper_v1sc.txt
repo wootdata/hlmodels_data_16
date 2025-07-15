@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cadiantrooper
+Source Model Hash : 0c65bf11092348fed85fac5fb8762f73
+Source Model Date : 1469188949 (2016/07/22)
+
+Ported Model Name : cadiantrooper_v1sc
+Ported Model Hash : b7205a4d2346dc0aa58adbb83d9fc3df
+Ported Model Date : 1752491457 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bitterman
+Source Model Hash : 2cb44f78212d3b53f00ec26848321a26
+Source Model Date : 1267891409 (2010/03/06)
+
+Ported Model Name : bitterman_v1sc
+Ported Model Hash : 0206dfcbf96d67275b92122e9ab329fe
+Ported Model Date : 1752491431 (2025/07/14)

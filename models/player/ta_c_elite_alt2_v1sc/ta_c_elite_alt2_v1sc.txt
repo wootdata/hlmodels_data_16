@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_elite_alt2
+Source Model Hash : 85d15001751529c7e42bc5dd4cdf74ec
+Source Model Date : 1630955586 (2021/09/06)
+
+Ported Model Name : ta_c_elite_alt2_v1sc
+Ported Model Hash : c7fdf6c2871e362b8d75cabc5f138443
+Ported Model Date : 1752492364 (2025/07/14)

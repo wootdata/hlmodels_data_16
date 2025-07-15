@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : claude
+Source Model Hash : 156ff504e325686dde51a65b3844306a
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : claude_v1sc
+Ported Model Hash : be722f5582e593160c6d975a569c8fda
+Ported Model Date : 1752491481 (2025/07/14)

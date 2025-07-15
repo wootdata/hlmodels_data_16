@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : warior
+Source Model Hash : 629b68095f14dfbed97401b8557e66d6
+Source Model Date : 1445936028 (2015/10/27)
+
+Ported Model Name : warior_v1sc
+Ported Model Hash : 401c0eac459fb9131d2e1aa8b9ef4848
+Ported Model Date : 1752492503 (2025/07/14)

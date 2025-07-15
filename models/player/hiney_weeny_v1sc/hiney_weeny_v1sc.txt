@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hiney_weeny
+Source Model Hash : c444b5d205f6a1cbb351346e099f7bd8
+Source Model Date : 1538228806 (2018/09/29)
+
+Ported Model Name : hiney_weeny_v1sc
+Ported Model Hash : f7cba8f23b3ab9aabb45499face3505c
+Ported Model Date : 1752491796 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kiwami
+Source Model Hash : 33c3fee5297f090474cb89eed8038852
+Source Model Date : 1237217892 (2009/03/16)
+
+Ported Model Name : kiwami_v1sc
+Ported Model Hash : a7027fbc296cc7301dbca9bf2673dd24
+Ported Model Date : 1752491891 (2025/07/14)

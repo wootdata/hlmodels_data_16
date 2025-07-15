@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : biped
+Source Model Hash : 5e298612e403ed5013873b3b918d43bc
+Source Model Date : 1267891233 (2010/03/06)
+
+Ported Model Name : biped_v1sc
+Ported Model Hash : 516a00d314d27ceff8e45ea9cb26c909
+Ported Model Date : 1752491431 (2025/07/14)

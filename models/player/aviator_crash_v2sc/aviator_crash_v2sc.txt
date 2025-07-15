@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aviator_crash_v2
+Source Model Hash : 32352fdf3e222ded54b858a6e67ef6c0
+Source Model Date : 1695753936 (2023/09/26)
+
+Ported Model Name : aviator_crash_v2sc
+Ported Model Hash : 6e294e697d2d04fad3e30f45de6d6c13
+Ported Model Date : 1752491389 (2025/07/14)

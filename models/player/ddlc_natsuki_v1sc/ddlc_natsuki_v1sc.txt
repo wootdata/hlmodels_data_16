@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ddlc_natsuki
+Source Model Hash : b328271cd42713cd431eb51dbaeabeb6
+Source Model Date : 1558888091 (2019/05/26)
+
+Ported Model Name : ddlc_natsuki_v1sc
+Ported Model Hash : 932525b8d1d1f9ccd7522092d45f245d
+Ported Model Date : 1752491591 (2025/07/14)

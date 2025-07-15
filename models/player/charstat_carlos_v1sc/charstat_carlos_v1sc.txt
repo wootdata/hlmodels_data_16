@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : charstat_de_carlos
+Source Model Hash : 7105c4ae8fa7ecdf1e6df0ec2864e6b6
+Source Model Date : 1422938025 (2015/02/02)
+
+Ported Model Name : charstat_carlos_v1sc
+Ported Model Hash : 2296806b7eb4691387fc71af9b52095d
+Ported Model Date : 1752491466 (2025/07/14)
