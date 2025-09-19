@@ -1,0 +1,7 @@
+Prénom : Alexandre
+Nom : Buser
+Pseudo : !, heavyzobech, jungleman
+Description : C'est un model tiré du model Grunt d'Opposing Force. Comme d'hab mettez ce 
+model dans le répértoire valve\models\player\Soldat de la jungle. Je l'ai modifié avec
+paint (!) et ça vous fait une belle jambe...
+Allez, bon frags !!!!!!!!!

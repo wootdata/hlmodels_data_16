@@ -1,0 +1,38 @@
+Model Name: Kirkbride
+
+Done by: Admiral
+
+Base Model: Recon
+
+Team Colours: No
+
+Graphics Program: Ulead MediaStudio Image Editor V2.0b
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+
+This is my first skin, and I had a whole stack of problems
+with my first try at it. It came up fine in the Model
+Viewer, but in the game the colours went a bit strange
+when the team colour sliders were changed.
+
+So after a bit of help from Wavelength (thanks guys...) I
+managed to change the pallette down, and now it works fine.
+It doesnt look quite as nice as the original due to this
+fact, but its still OK.
+
+Is just basically a Marine type guy in blue camo gear,
+(wheres he going to hide? The sky?) and a balaclava with
+a mouth plate. 
+
+And if any sales blokes from Adobe are reading this...
+Hows about a copy of PS5 for about 10 bucks? 
+
+Hope you enjoy it!
+
+-A
+
+EMAIL - krisdick@bigpond.com
+ICQ - 32972678
+WWW - Its coming soon...
+NG - alt.games.half-life (but post-eth no Binaries, lest ye be flamed!)
+

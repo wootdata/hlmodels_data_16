@@ -1,0 +1,28 @@
+Half-Life Deathmatch Model "T1000" From the motion picture "Terminator2"
+3D artist: 3xsistenZ
+
+Place the folder called "T1000" in the
+
+\sierra\half-life\valve\models\player folder.
+
+
+Guess how i came up with this model!
+
+3xsistenZ
+
+Contact me at "fzas@usa.net" if you have any problems, requests or general quiries about modeling\skinning for H.L,e-mail me!
+
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.
+
+
+(C)2000,Frederik (3xsistenZ) Larsson
+
+

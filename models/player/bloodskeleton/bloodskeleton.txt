@@ -1,0 +1,18 @@
+BloodSkeleton <BS> Skin
+by Trunks < blaze@tnx.com >
+
+*NOTICE*
+You cannot change the colors on this skin, and won't be able to until I come up with a better idea for the skeleton mod, and create the palette. Have any ideas? Please email me and if I choose your idea, I'll give you credit for it!!!
+********
+
+Place the two bs files the
+\sierra\half-life\valve\models\player folder.
+
+********
+This skin was simply made, and don't expect everyone to jump up and down about using it. I made it so the folx who like to see the skeleton mod running around while playing, but find it hard to see. This skin is a little brighter, so he should stick out a little better. If you choose to use it in the place of the original skeleton, just rename the BS mdl to skeleton.mdl and place it in the skeleton folder! Thanx for taking the time to read all this crap and please look in the future for more skins by me.
+********
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For a player model to be visible to all clients playing, it must be installed on the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the .bmp file necessary for selecting the model in the interface: models must be deliberately installed by the player.

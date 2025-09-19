@@ -1,0 +1,32 @@
+2-12-00
+
+================================================================
+
+Model Name              : DESI-01 (previously PUNISHER by Brian Collins)
+
+Author                  : Seth Forester
+
+Email Address           : sethf@digitaleclipse.com
+
+Website Address         : 
+
+Model description       : A first try at skinning. Hoping everyone will enjoy it. Don't abuse the SKINS!
+
+
+
+================================================================
+
+
+* Construction *
+
+Poly Count              : 766 tris.md2 
+
+Skin Count              : 1 DM
+
+Editor used             : 
+		Modeling - lightwave	
+		Skining  - Model Viewer
+		Painting - Photoshop
+
+Known Bugs              : None that i know of.
+

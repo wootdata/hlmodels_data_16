@@ -1,0 +1,16 @@
+Skinner: SlimReapeR
+Skin Name: clannutz
+Model Used: Arm by Evil Bastard
+
+This model should only be used by members of the nutz clan. Have this skin installed
+to see them crack you open!
+
+Installation of Plugin
+
+Create a folder called clannutz in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+

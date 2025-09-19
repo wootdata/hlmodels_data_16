@@ -1,0 +1,10 @@
+===================================
+Skin Name  : The Suppressor
+Directory  : /suppressor
+Author     : DoLLaR [Jordan Butters]
+Model      : Burn
+Time       : 1hr
+E-Mail     : dollarbill@btinternet.com
+Homepage   : www.stormfront.arecool.net
+Other Notes: Thanks to the maker of this model!
+====================================
