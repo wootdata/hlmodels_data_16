@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lekismon_cc
+Source Model Hash : 81a287f180d0eb0f787a0206d7402e28
+Source Model Date : 1771558512 (2026/02/19)
+
+Ported Model Name : lekismon_cc_v1sc
+Ported Model Hash : a8717e1687f2a14d0e4ebc7e88727f37
+Ported Model Date : 1780823042 (2026/06/07)
